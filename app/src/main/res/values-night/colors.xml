@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="alsoGray">#8F8F8F</color>
+
+    <color name="Primary">#2C3E73</color>
+    <color name="OnPrimary">#A0B8FF</color>
+    <color name="Secondary">#1A264B</color>
+    <color name="OnSecondary">#7FA9E5</color>
+    <color name="Riw">#5D9EFF</color>
+</resources>

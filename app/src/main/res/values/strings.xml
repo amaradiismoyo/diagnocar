@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Diagnocar</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analisis</string>
+    <string name="result">Hasil Analisis</string>
+
+    <string name="image_classifier_failed">Image classifier failed to initialize. See error logs for details</string>
+    <string name="tulisan">Tulisan</string>
+    <string name="ganti_gambar">Ganti Gambar</string>
+
+    <string name="history">Riwayat Analisis</string>
+    <string name="error_message">Error</string>
+
+</resources>
