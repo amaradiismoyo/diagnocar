@@ -19,11 +19,11 @@ val localProps = Properties().apply {
 val newsApiKey: String? = localProps.getProperty("NEWSAPI_KEY")
 
 android {
-    namespace = "com.adismoyam.diagnocar"
+    namespace = "com.amaradism.diagnocar"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.adismoyam.diagnocar"
+        applicationId = "com.amaradism.diagnocar"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
